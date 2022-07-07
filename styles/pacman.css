@@ -1,0 +1,26 @@
+ul{
+    margin: 0 35rem;
+    padding: 0;
+    height: 50px;
+    width: 200vh;
+    background: none;
+    align-items: center;
+    font-size: 30px;
+}
+
+ul li{
+    list-style: none;
+    float: left;
+    margin: 0rem 1.5rem;
+}
+
+ul li a{
+    margin: 0 1rem;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+ul li a:hover{
+    color: black;
+}

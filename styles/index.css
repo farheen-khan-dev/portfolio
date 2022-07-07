@@ -1,0 +1,66 @@
+.main-style{
+    height: 100px;
+    background: none;
+}
+
+
+ul{
+    margin: 0 35rem;
+    padding: 0;
+    height: 50px;
+    width: 200vh;
+    background: none;
+    align-items: center;
+    font-size: 30px;
+}
+
+ul li{
+    list-style: none;
+    float: left;
+    margin: 0rem 1.5rem;
+}
+
+ul li a{
+    margin: 0 1rem;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+ul li a:hover{
+    color: black;
+}
+
+.name-style{
+    font-size: 100px;
+    letter-spacing: 40px;
+    word-spacing: 10px;
+    text-align: center;
+}
+/* #FFE5E8 */
+.box-style{
+    height: 550px;
+    width: 650px;
+    background: white;
+    margin: 4rem 0rem;
+    border-radius: 10px;
+}
+
+.box-style-yt{
+    height: 580px;
+    width: 800px;
+    background: none;
+    margin: 4rem 3rem;
+    border-radius: 10px;
+}
+
+.img-style{
+    margin: -20rem 6rem;
+}
+
+.label-style{
+    font-weight: bold;
+    font-size: 50px;
+    letter-spacing: 15px;
+    margin: 5rem 40rem;
+}
